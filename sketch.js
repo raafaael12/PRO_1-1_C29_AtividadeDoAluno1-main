@@ -9,6 +9,7 @@ const Composite = Matter.Composite;
 
 let engine;
 let world;
+var batata
 var ground;
 
 function setup() 
